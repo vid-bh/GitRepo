@@ -1,0 +1,10 @@
+C:\Users\LAB1C\source\repos\BatteryMonitor\BatteryMonitor\bin\Debug\BatteryMonitor.exe.config
+C:\Users\LAB1C\source\repos\BatteryMonitor\BatteryMonitor\bin\Debug\BatteryMonitor.exe
+C:\Users\LAB1C\source\repos\BatteryMonitor\BatteryMonitor\bin\Debug\BatteryMonitor.pdb
+C:\Users\LAB1C\source\repos\BatteryMonitor\BatteryMonitor\obj\Debug\BatteryMonitor.csprojAssemblyReference.cache
+C:\Users\LAB1C\source\repos\BatteryMonitor\BatteryMonitor\obj\Debug\BatteryMonitor.Form1.resources
+C:\Users\LAB1C\source\repos\BatteryMonitor\BatteryMonitor\obj\Debug\BatteryMonitor.Properties.Resources.resources
+C:\Users\LAB1C\source\repos\BatteryMonitor\BatteryMonitor\obj\Debug\BatteryMonitor.csproj.GenerateResource.cache
+C:\Users\LAB1C\source\repos\BatteryMonitor\BatteryMonitor\obj\Debug\BatteryMonitor.csproj.CoreCompileInputs.cache
+C:\Users\LAB1C\source\repos\BatteryMonitor\BatteryMonitor\obj\Debug\BatteryMonitor.exe
+C:\Users\LAB1C\source\repos\BatteryMonitor\BatteryMonitor\obj\Debug\BatteryMonitor.pdb
